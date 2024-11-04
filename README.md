@@ -1,0 +1,2 @@
+# JFET
+JFET Desmos Graph
